@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Abhishek Deo</h1>
+<h1 align="center">Hey there 👋, I'm Abhishek </h1>
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&color=00BFFF&width=435&lines=Java+Backend+Developer;Tech+Explorer+%7C+Problem+Solver;Spring+Boot+%7C+Hibernate+%7C+REST+APIs" />
 </h3>
